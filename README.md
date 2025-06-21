@@ -44,5 +44,5 @@ We used the **FD004 subset** from the NASA C-MAPSS dataset, which includes four 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/utanvir71/CMPASS-Rul-prediction-using-Random-forest-XGBoost-and-LSTM.git
 
